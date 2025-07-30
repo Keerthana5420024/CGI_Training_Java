@@ -1,4 +1,4 @@
-//Write a program on method overriding
+//Write a program on method overriding 
 
 class A {
     void add(int a,int b){
