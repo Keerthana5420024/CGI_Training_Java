@@ -1,0 +1,1 @@
+This is an example to copy one file's content to another
